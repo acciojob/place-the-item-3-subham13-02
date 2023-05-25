@@ -1,2 +1,11 @@
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 
+.item {
+  
+  width: calc(33.33% - 10px);
+  margin-bottom: 10px;
 /* Your CSS Code here. */
